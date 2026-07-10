@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-07-10",
+  "totalSolved": 2,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-07-11",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 0,
     "hard": 0,
     "basic": 1
   },
   "syncedProblems": {
-    "GeeksForGeeks_1_to_n_Without_Loops": true
+    "GeeksForGeeks_1_to_n_Without_Loops": true,
+    "GeeksForGeeks_Check_K-th_Bit": true
   },
   "activityHistory": {
-    "2026-07-10": 1
+    "2026-07-10": 1,
+    "2026-07-11": 1
   },
   "todayProblems": [
-    "1 to n Without Loops"
+    "Check K-th Bit"
   ]
 }
