@@ -5,3 +5,4 @@
 | 3 | [Set kth bit](./GeeksForGeeks/Basic/Set%20kth%20bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-kth-bit3724/1) | Basic | 11 Jul 2026 | 11:09 pm |
 | 4 | [Unset Kth Bit](./GeeksForGeeks/Medium/Unset%20Kth%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/replace-the-bit3212/1) | Medium | 11 Jul 2026 | 11:34 pm |
 | 5 | [Toggle bits in the given range](./GeeksForGeeks/Medium/Toggle%20bits%20in%20the%20given%20range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/toggle-bits-given-range0952/1) | Medium | 11 Jul 2026 | 11:41 pm |
+| 6 | [Set the rightmost unset bit](./GeeksForGeeks/Medium/Set%20the%20rightmost%20unset%20bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | Medium | 12 Jul 2026 | 12:04 am |
