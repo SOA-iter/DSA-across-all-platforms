@@ -4,3 +4,4 @@
 | 2 | [Check K-th Bit](./GeeksForGeeks/Easy/Check%20K-th%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | Easy | 11 Jul 2026 | 02:17 am |
 | 3 | [Set kth bit](./GeeksForGeeks/Basic/Set%20kth%20bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-kth-bit3724/1) | Basic | 11 Jul 2026 | 11:09 pm |
 | 4 | [Unset Kth Bit](./GeeksForGeeks/Medium/Unset%20Kth%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/replace-the-bit3212/1) | Medium | 11 Jul 2026 | 11:34 pm |
+| 5 | [Toggle bits in the given range](./GeeksForGeeks/Medium/Toggle%20bits%20in%20the%20given%20range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/toggle-bits-given-range0952/1) | Medium | 11 Jul 2026 | 11:41 pm |
