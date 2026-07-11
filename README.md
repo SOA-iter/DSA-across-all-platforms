@@ -7,3 +7,4 @@
 | 5 | [Toggle bits in the given range](./GeeksForGeeks/Medium/Toggle%20bits%20in%20the%20given%20range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/toggle-bits-given-range0952/1) | Medium | 11 Jul 2026 | 11:41 pm |
 | 6 | [Set the rightmost unset bit](./GeeksForGeeks/Medium/Set%20the%20rightmost%20unset%20bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | Medium | 12 Jul 2026 | 12:04 am |
 | 7 | [Power of 2](./GeeksForGeeks/Medium/Power%20of%202) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1) | Medium | 12 Jul 2026 | 12:40 am |
+| 8 | [Count Set Bits](./GeeksForGeeks/Easy/Count%20Set%20Bits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-bits0143/1) | Easy | 12 Jul 2026 | 12:48 am |
