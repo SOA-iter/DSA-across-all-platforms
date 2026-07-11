@@ -8,3 +8,4 @@
 | 6 | [Set the rightmost unset bit](./GeeksForGeeks/Medium/Set%20the%20rightmost%20unset%20bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | Medium | 12 Jul 2026 | 12:04 am |
 | 7 | [Power of 2](./GeeksForGeeks/Medium/Power%20of%202) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1) | Medium | 12 Jul 2026 | 12:40 am |
 | 8 | [Count Set Bits](./GeeksForGeeks/Easy/Count%20Set%20Bits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-bits0143/1) | Easy | 12 Jul 2026 | 12:48 am |
+| 9 | [Power of Two](./LeetCode/Easy/Power%20of%20Two) | [LeetCode](https://leetcode.com/problems/power-of-two/) | Easy | 12 Jul 2026 | 01:26 am |
