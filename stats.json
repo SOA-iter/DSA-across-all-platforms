@@ -1,12 +1,12 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-12",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 2
   },
@@ -19,17 +19,19 @@
     "GeeksForGeeks_Set_the_rightmost_unset_bit": true,
     "GeeksForGeeks_Power_of_2": true,
     "GeeksForGeeks_Count_Set_Bits": true,
-    "LeetCode_Power_of_Two": true
+    "LeetCode_Power_of_Two": true,
+    "LeetCode_Divide_Two_Integers": true
   },
   "activityHistory": {
     "2026-07-10": 1,
     "2026-07-11": 4,
-    "2026-07-12": 4
+    "2026-07-12": 5
   },
   "todayProblems": [
     "Set the rightmost unset bit",
     "Power of 2",
     "Count Set Bits",
-    "Power of Two"
+    "Power of Two",
+    "Divide Two Integers"
   ]
 }

@@ -9,3 +9,4 @@
 | 7 | [Power of 2](./GeeksForGeeks/Medium/Power%20of%202) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1) | Medium | 12 Jul 2026 | 12:40 am |
 | 8 | [Count Set Bits](./GeeksForGeeks/Easy/Count%20Set%20Bits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-bits0143/1) | Easy | 12 Jul 2026 | 12:48 am |
 | 9 | [Power of Two](./LeetCode/Easy/Power%20of%20Two) | [LeetCode](https://leetcode.com/problems/power-of-two/) | Easy | 12 Jul 2026 | 01:26 am |
+| 10 | [Divide Two Integers](./LeetCode/Medium/Divide%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/divide-two-integers/) | Medium | 12 Jul 2026 | 02:13 am |
