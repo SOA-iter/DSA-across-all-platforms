@@ -1,26 +1,28 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-11",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 2
   },
   "syncedProblems": {
     "GeeksForGeeks_1_to_n_Without_Loops": true,
     "GeeksForGeeks_Check_K-th_Bit": true,
-    "GeeksForGeeks_Set_kth_bit": true
+    "GeeksForGeeks_Set_kth_bit": true,
+    "GeeksForGeeks_Unset_Kth_Bit": true
   },
   "activityHistory": {
     "2026-07-10": 1,
-    "2026-07-11": 2
+    "2026-07-11": 3
   },
   "todayProblems": [
     "Check K-th Bit",
-    "Set kth bit"
+    "Set kth bit",
+    "Unset Kth Bit"
   ]
 }
