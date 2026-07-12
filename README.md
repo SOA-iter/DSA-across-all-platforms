@@ -12,3 +12,4 @@
 | 10 | [Divide Two Integers](./LeetCode/Medium/Divide%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/divide-two-integers/) | Medium | 12 Jul 2026 | 02:13 am |
 | 11 | [Minimum Bit Flips to Convert Number](./LeetCode/Easy/Minimum%20Bit%20Flips%20to%20Convert%20Number) | [LeetCode](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Easy | 13 Jul 2026 | 12:30 am |
 | 12 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 13 Jul 2026 | 12:53 am |
+| 13 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 13 Jul 2026 | 01:29 am |
