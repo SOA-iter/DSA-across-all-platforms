@@ -15,3 +15,4 @@
 | 13 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 13 Jul 2026 | 01:29 am |
 | 14 | [XOR of a Number Range](./GeeksForGeeks/Easy/XOR%20of%20a%20Number%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | Easy | 13 Jul 2026 | 01:53 am |
 | 15 | [All Prime Factors in Any Order](./GeeksForGeeks/Medium/All%20Prime%20Factors%20in%20Any%20Order) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prime-factor-of-a-number/1) | Medium | 13 Jul 2026 | 11:25 pm |
+| 16 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 14 Jul 2026 | 02:10 am |
