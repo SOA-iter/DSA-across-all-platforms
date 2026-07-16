@@ -1,11 +1,11 @@
 {
-  "totalSolved": 16,
-  "currentStreak": 5,
+  "totalSolved": 17,
+  "currentStreak": 1,
   "maxStreak": 5,
-  "lastSyncDate": "2026-07-14",
+  "lastSyncDate": "2026-07-16",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 8,
     "hard": 0,
     "basic": 2
@@ -26,16 +26,18 @@
     "LeetCode_Subsets": true,
     "GeeksForGeeks_XOR_of_a_Number_Range": true,
     "GeeksForGeeks_All_Prime_Factors_in_Any_Order": true,
-    "LeetCode_Count_Primes": true
+    "LeetCode_Count_Primes": true,
+    "LeetCode_Valid_Parentheses": true
   },
   "activityHistory": {
     "2026-07-10": 1,
     "2026-07-11": 4,
     "2026-07-12": 5,
     "2026-07-13": 5,
-    "2026-07-14": 1
+    "2026-07-14": 1,
+    "2026-07-16": 1
   },
   "todayProblems": [
-    "Count Primes"
+    "Valid Parentheses"
   ]
 }
