@@ -19,3 +19,4 @@
 | 17 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 16 Jul 2026 | 08:30 pm |
 | 18 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 16 Jul 2026 | 11:51 pm |
 | 19 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 17 Jul 2026 | 07:49 pm |
+| 20 | [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) | Easy | 17 Jul 2026 | 11:48 pm |
