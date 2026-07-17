@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
-  "currentStreak": 2,
+  "totalSolved": 21,
+  "currentStreak": 3,
   "maxStreak": 5,
-  "lastSyncDate": "2026-07-17",
-  "todayCount": 2,
+  "lastSyncDate": "2026-07-18",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 9,
+    "medium": 10,
     "hard": 0,
     "basic": 2
   },
@@ -30,7 +30,8 @@
     "LeetCode_Valid_Parentheses": true,
     "LeetCode_Min_Stack": true,
     "LeetCode_Majority_Element": true,
-    "LeetCode_Next_Greater_Element_I": true
+    "LeetCode_Next_Greater_Element_I": true,
+    "LeetCode_Next_Greater_Element_II": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -39,10 +40,10 @@
     "2026-07-13": 5,
     "2026-07-14": 1,
     "2026-07-16": 2,
-    "2026-07-17": 2
+    "2026-07-17": 2,
+    "2026-07-18": 1
   },
   "todayProblems": [
-    "Majority Element",
-    "Next Greater Element I"
+    "Next Greater Element II"
   ]
 }
