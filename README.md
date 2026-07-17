@@ -18,3 +18,4 @@
 | 16 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 14 Jul 2026 | 02:10 am |
 | 17 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 16 Jul 2026 | 08:30 pm |
 | 18 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 16 Jul 2026 | 11:51 pm |
+| 19 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 17 Jul 2026 | 07:49 pm |
