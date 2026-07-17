@@ -21,3 +21,4 @@
 | 19 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 17 Jul 2026 | 07:49 pm |
 | 20 | [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) | Easy | 17 Jul 2026 | 11:48 pm |
 | 21 | [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/) | Medium | 18 Jul 2026 | 12:30 am |
+| 22 | [Next Smaller Element](./GeeksForGeeks/Medium/Next%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | Medium | 18 Jul 2026 | 12:45 am |
