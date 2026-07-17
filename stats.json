@@ -1,13 +1,13 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 3,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-18",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 9,
     "medium": 11,
-    "hard": 0,
+    "hard": 1,
     "basic": 2
   },
   "syncedProblems": {
@@ -32,7 +32,8 @@
     "LeetCode_Majority_Element": true,
     "LeetCode_Next_Greater_Element_I": true,
     "LeetCode_Next_Greater_Element_II": true,
-    "GeeksForGeeks_Next_Smaller_Element": true
+    "GeeksForGeeks_Next_Smaller_Element": true,
+    "LeetCode_Trapping_Rain_Water": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -42,10 +43,11 @@
     "2026-07-14": 1,
     "2026-07-16": 2,
     "2026-07-17": 2,
-    "2026-07-18": 2
+    "2026-07-18": 3
   },
   "todayProblems": [
     "Next Greater Element II",
-    "Next Smaller Element"
+    "Next Smaller Element",
+    "Trapping Rain Water"
   ]
 }
