@@ -25,3 +25,4 @@
 | 23 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 18 Jul 2026 | 02:21 am |
 | 24 | [Next Permutation](./LeetCode/Medium/Next%20Permutation) | [LeetCode](https://leetcode.com/problems/next-permutation/) | Medium | 18 Jul 2026 | 11:25 am |
 | 25 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 18 Jul 2026 | 12:09 pm |
+| 26 | [Sum of Subarray Minimums](./LeetCode/Medium/Sum%20of%20Subarray%20Minimums) | [LeetCode](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | 18 Jul 2026 | 08:26 pm |
