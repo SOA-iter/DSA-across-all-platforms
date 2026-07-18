@@ -24,3 +24,4 @@
 | 22 | [Next Smaller Element](./GeeksForGeeks/Medium/Next%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | Medium | 18 Jul 2026 | 12:45 am |
 | 23 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 18 Jul 2026 | 02:21 am |
 | 24 | [Next Permutation](./LeetCode/Medium/Next%20Permutation) | [LeetCode](https://leetcode.com/problems/next-permutation/) | Medium | 18 Jul 2026 | 11:25 am |
+| 25 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 18 Jul 2026 | 12:09 pm |
