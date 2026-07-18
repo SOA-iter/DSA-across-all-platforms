@@ -1,12 +1,12 @@
 {
-  "totalSolved": 27,
-  "currentStreak": 3,
+  "totalSolved": 28,
+  "currentStreak": 4,
   "maxStreak": 5,
-  "lastSyncDate": "2026-07-18",
-  "todayCount": 7,
+  "lastSyncDate": "2026-07-19",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 15,
+    "medium": 16,
     "hard": 1,
     "basic": 2
   },
@@ -37,7 +37,8 @@
     "LeetCode_Next_Permutation": true,
     "LeetCode_Longest_Consecutive_Sequence": true,
     "LeetCode_Sum_of_Subarray_Minimums": true,
-    "LeetCode_Asteroid_Collision": true
+    "LeetCode_Asteroid_Collision": true,
+    "LeetCode_Sum_of_Subarray_Ranges": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -47,15 +48,10 @@
     "2026-07-14": 1,
     "2026-07-16": 2,
     "2026-07-17": 2,
-    "2026-07-18": 7
+    "2026-07-18": 7,
+    "2026-07-19": 1
   },
   "todayProblems": [
-    "Next Greater Element II",
-    "Next Smaller Element",
-    "Trapping Rain Water",
-    "Next Permutation",
-    "Longest Consecutive Sequence",
-    "Sum of Subarray Minimums",
-    "Asteroid Collision"
+    "Sum of Subarray Ranges"
   ]
 }
