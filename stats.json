@@ -1,12 +1,12 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 4,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 16,
+    "medium": 17,
     "hard": 1,
     "basic": 2
   },
@@ -38,7 +38,8 @@
     "LeetCode_Longest_Consecutive_Sequence": true,
     "LeetCode_Sum_of_Subarray_Minimums": true,
     "LeetCode_Asteroid_Collision": true,
-    "LeetCode_Sum_of_Subarray_Ranges": true
+    "LeetCode_Sum_of_Subarray_Ranges": true,
+    "LeetCode_Remove_K_Digits": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -49,9 +50,10 @@
     "2026-07-16": 2,
     "2026-07-17": 2,
     "2026-07-18": 7,
-    "2026-07-19": 1
+    "2026-07-19": 2
   },
   "todayProblems": [
-    "Sum of Subarray Ranges"
+    "Sum of Subarray Ranges",
+    "Remove K Digits"
   ]
 }
