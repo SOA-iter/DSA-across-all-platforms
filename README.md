@@ -29,3 +29,4 @@
 | 27 | [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) | [LeetCode](https://leetcode.com/problems/asteroid-collision/) | Medium | 18 Jul 2026 | 11:07 pm |
 | 28 | [Sum of Subarray Ranges](./LeetCode/Medium/Sum%20of%20Subarray%20Ranges) | [LeetCode](https://leetcode.com/problems/sum-of-subarray-ranges/) | Medium | 19 Jul 2026 | 12:03 am |
 | 29 | [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) | [LeetCode](https://leetcode.com/problems/remove-k-digits/) | Medium | 19 Jul 2026 | 12:52 am |
+| 30 | [Largest Rectangle in Histogram](./LeetCode/Hard/Largest%20Rectangle%20in%20Histogram) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | 19 Jul 2026 | 12:32 pm |
