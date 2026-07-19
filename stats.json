@@ -1,13 +1,13 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 4,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-19",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 9,
     "medium": 17,
-    "hard": 2,
+    "hard": 3,
     "basic": 2
   },
   "syncedProblems": {
@@ -40,7 +40,8 @@
     "LeetCode_Asteroid_Collision": true,
     "LeetCode_Sum_of_Subarray_Ranges": true,
     "LeetCode_Remove_K_Digits": true,
-    "LeetCode_Largest_Rectangle_in_Histogram": true
+    "LeetCode_Largest_Rectangle_in_Histogram": true,
+    "LeetCode_Sliding_Window_Maximum": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -51,11 +52,12 @@
     "2026-07-16": 2,
     "2026-07-17": 2,
     "2026-07-18": 7,
-    "2026-07-19": 3
+    "2026-07-19": 4
   },
   "todayProblems": [
     "Sum of Subarray Ranges",
     "Remove K Digits",
-    "Largest Rectangle in Histogram"
+    "Largest Rectangle in Histogram",
+    "Sliding Window Maximum"
   ]
 }
