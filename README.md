@@ -34,3 +34,4 @@
 | 32 | [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) | [LeetCode](https://leetcode.com/problems/assign-cookies/) | Easy | 20 Jul 2026 | 11:26 pm |
 | 33 | [Fractional Knapsack](./GeeksForGeeks/Medium/Fractional%20Knapsack) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | 20 Jul 2026 | 11:59 pm |
 | 34 | [Lemonade Change](./LeetCode/Easy/Lemonade%20Change) | [LeetCode](https://leetcode.com/problems/lemonade-change/) | Easy | 21 Jul 2026 | 01:03 am |
+| 35 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 21 Jul 2026 | 01:31 am |
