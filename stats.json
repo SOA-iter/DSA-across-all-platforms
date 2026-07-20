@@ -1,12 +1,12 @@
 {
-  "totalSolved": 32,
+  "totalSolved": 33,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 17,
+    "medium": 18,
     "hard": 3,
     "basic": 2
   },
@@ -42,7 +42,8 @@
     "LeetCode_Remove_K_Digits": true,
     "LeetCode_Largest_Rectangle_in_Histogram": true,
     "LeetCode_Sliding_Window_Maximum": true,
-    "LeetCode_Assign_Cookies": true
+    "LeetCode_Assign_Cookies": true,
+    "GeeksForGeeks_Fractional_Knapsack": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -54,9 +55,10 @@
     "2026-07-17": 2,
     "2026-07-18": 7,
     "2026-07-19": 4,
-    "2026-07-20": 1
+    "2026-07-20": 2
   },
   "todayProblems": [
-    "Assign Cookies"
+    "Assign Cookies",
+    "Fractional Knapsack"
   ]
 }
