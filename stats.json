@@ -1,11 +1,11 @@
 {
-  "totalSolved": 31,
-  "currentStreak": 4,
+  "totalSolved": 32,
+  "currentStreak": 5,
   "maxStreak": 5,
-  "lastSyncDate": "2026-07-19",
-  "todayCount": 4,
+  "lastSyncDate": "2026-07-20",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 17,
     "hard": 3,
     "basic": 2
@@ -41,7 +41,8 @@
     "LeetCode_Sum_of_Subarray_Ranges": true,
     "LeetCode_Remove_K_Digits": true,
     "LeetCode_Largest_Rectangle_in_Histogram": true,
-    "LeetCode_Sliding_Window_Maximum": true
+    "LeetCode_Sliding_Window_Maximum": true,
+    "LeetCode_Assign_Cookies": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -52,12 +53,10 @@
     "2026-07-16": 2,
     "2026-07-17": 2,
     "2026-07-18": 7,
-    "2026-07-19": 4
+    "2026-07-19": 4,
+    "2026-07-20": 1
   },
   "todayProblems": [
-    "Sum of Subarray Ranges",
-    "Remove K Digits",
-    "Largest Rectangle in Histogram",
-    "Sliding Window Maximum"
+    "Assign Cookies"
   ]
 }
