@@ -1,12 +1,12 @@
 {
-  "totalSolved": 35,
+  "totalSolved": 36,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-07-21",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 19,
+    "medium": 20,
     "hard": 3,
     "basic": 2
   },
@@ -45,7 +45,8 @@
     "LeetCode_Assign_Cookies": true,
     "GeeksForGeeks_Fractional_Knapsack": true,
     "LeetCode_Lemonade_Change": true,
-    "LeetCode_Valid_Parenthesis_String": true
+    "LeetCode_Valid_Parenthesis_String": true,
+    "GeeksForGeeks_Maximum_Meetings_in_One_Room": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -58,10 +59,11 @@
     "2026-07-18": 7,
     "2026-07-19": 4,
     "2026-07-20": 2,
-    "2026-07-21": 2
+    "2026-07-21": 3
   },
   "todayProblems": [
     "Lemonade Change",
-    "Valid Parenthesis String"
+    "Valid Parenthesis String",
+    "Maximum Meetings in One Room"
   ]
 }

@@ -35,3 +35,4 @@
 | 33 | [Fractional Knapsack](./GeeksForGeeks/Medium/Fractional%20Knapsack) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | 20 Jul 2026 | 11:59 pm |
 | 34 | [Lemonade Change](./LeetCode/Easy/Lemonade%20Change) | [LeetCode](https://leetcode.com/problems/lemonade-change/) | Easy | 21 Jul 2026 | 01:03 am |
 | 35 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 21 Jul 2026 | 01:31 am |
+| 36 | [Maximum Meetings in One Room](./GeeksForGeeks/Medium/Maximum%20Meetings%20in%20One%20Room) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1) | Medium | 21 Jul 2026 | 11:24 pm |
