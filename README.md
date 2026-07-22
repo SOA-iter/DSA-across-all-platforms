@@ -41,3 +41,4 @@
 | 39 | [Job Sequencing Problem](./GeeksForGeeks/Medium/Job%20Sequencing%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | Medium | 22 Jul 2026 | 11:51 pm |
 | 40 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 23 Jul 2026 | 12:42 am |
 | 41 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 23 Jul 2026 | 01:13 am |
+| 42 | [Non-overlapping Intervals](./LeetCode/Medium/Non-overlapping%20Intervals) | [LeetCode](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | 23 Jul 2026 | 01:32 am |
