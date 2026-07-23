@@ -43,3 +43,4 @@
 | 41 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 23 Jul 2026 | 01:13 am |
 | 42 | [Non-overlapping Intervals](./LeetCode/Medium/Non-overlapping%20Intervals) | [LeetCode](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | 23 Jul 2026 | 01:32 am |
 | 43 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 23 Jul 2026 | 10:40 pm |
+| 44 | [Check if an Array is Max Heap](./GeeksForGeeks/Medium/Check%20if%20an%20Array%20is%20Max%20Heap) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | Medium | 24 Jul 2026 | 12:59 am |
