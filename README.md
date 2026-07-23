@@ -42,3 +42,4 @@
 | 40 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 23 Jul 2026 | 12:42 am |
 | 41 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 23 Jul 2026 | 01:13 am |
 | 42 | [Non-overlapping Intervals](./LeetCode/Medium/Non-overlapping%20Intervals) | [LeetCode](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | 23 Jul 2026 | 01:32 am |
+| 43 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 23 Jul 2026 | 10:40 pm |
