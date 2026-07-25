@@ -1,13 +1,13 @@
 {
-  "totalSolved": 44,
-  "currentStreak": 9,
-  "maxStreak": 9,
-  "lastSyncDate": "2026-07-24",
+  "totalSolved": 45,
+  "currentStreak": 10,
+  "maxStreak": 10,
+  "lastSyncDate": "2026-07-25",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 11,
     "medium": 27,
-    "hard": 4,
+    "hard": 5,
     "basic": 2
   },
   "syncedProblems": {
@@ -54,7 +54,8 @@
     "LeetCode_Merge_Intervals": true,
     "LeetCode_Non-overlapping_Intervals": true,
     "LeetCode_Candy": true,
-    "GeeksForGeeks_Check_if_an_Array_is_Max_Heap": true
+    "GeeksForGeeks_Check_if_an_Array_is_Max_Heap": true,
+    "LeetCode_Reverse_Pairs": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -70,9 +71,10 @@
     "2026-07-21": 3,
     "2026-07-22": 3,
     "2026-07-23": 4,
-    "2026-07-24": 1
+    "2026-07-24": 1,
+    "2026-07-25": 1
   },
   "todayProblems": [
-    "Check if an Array is Max Heap"
+    "Reverse Pairs"
   ]
 }
