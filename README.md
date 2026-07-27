@@ -47,3 +47,4 @@
 | 45 | [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) | [LeetCode](https://leetcode.com/problems/reverse-pairs/) | Hard | 25 Jul 2026 | 08:46 pm |
 | 46 | [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | 27 Jul 2026 | 10:06 pm |
 | 47 | [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 28 Jul 2026 | 01:00 am |
+| 48 | [Nearly sorted](./GeeksForGeeks/Medium/Nearly%20sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1) | Medium | 28 Jul 2026 | 01:16 am |
