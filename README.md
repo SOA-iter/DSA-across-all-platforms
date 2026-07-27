@@ -45,3 +45,4 @@
 | 43 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 23 Jul 2026 | 10:40 pm |
 | 44 | [Check if an Array is Max Heap](./GeeksForGeeks/Medium/Check%20if%20an%20Array%20is%20Max%20Heap) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | Medium | 24 Jul 2026 | 12:59 am |
 | 45 | [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) | [LeetCode](https://leetcode.com/problems/reverse-pairs/) | Hard | 25 Jul 2026 | 08:46 pm |
+| 46 | [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | 27 Jul 2026 | 10:06 pm |
