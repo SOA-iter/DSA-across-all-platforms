@@ -49,3 +49,4 @@
 | 47 | [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 28 Jul 2026 | 01:00 am |
 | 48 | [Nearly sorted](./GeeksForGeeks/Medium/Nearly%20sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1) | Medium | 28 Jul 2026 | 01:16 am |
 | 49 | [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 28 Jul 2026 | 01:46 am |
+| 50 | [Rank Transform of an Array](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | 28 Jul 2026 | 02:23 am |
