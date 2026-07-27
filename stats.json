@@ -1,12 +1,12 @@
 {
-  "totalSolved": 46,
-  "currentStreak": 1,
+  "totalSolved": 47,
+  "currentStreak": 2,
   "maxStreak": 10,
-  "lastSyncDate": "2026-07-27",
+  "lastSyncDate": "2026-07-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 28,
+    "medium": 29,
     "hard": 5,
     "basic": 2
   },
@@ -56,7 +56,8 @@
     "LeetCode_Candy": true,
     "GeeksForGeeks_Check_if_an_Array_is_Max_Heap": true,
     "LeetCode_Reverse_Pairs": true,
-    "LeetCode_Longest_Repeating_Character_Replacement": true
+    "LeetCode_Longest_Repeating_Character_Replacement": true,
+    "LeetCode_Kth_Largest_Element_in_an_Array": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -74,9 +75,10 @@
     "2026-07-23": 4,
     "2026-07-24": 1,
     "2026-07-25": 1,
-    "2026-07-27": 1
+    "2026-07-27": 1,
+    "2026-07-28": 1
   },
   "todayProblems": [
-    "Longest Repeating Character Replacement"
+    "Kth Largest Element in an Array"
   ]
 }
