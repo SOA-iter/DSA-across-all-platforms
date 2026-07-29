@@ -53,3 +53,4 @@
 | 51 | [Min Cost to Connect Ropes](./GeeksForGeeks/Medium/Min%20Cost%20to%20Connect%20Ropes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | Medium | 29 Jul 2026 | 12:22 am |
 | 52 | [Kth Largest Element in a Stream](./LeetCode/Easy/Kth%20Largest%20Element%20in%20a%20Stream) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | 29 Jul 2026 | 12:37 am |
 | 53 | [Find Median from Data Stream](./LeetCode/Hard/Find%20Median%20from%20Data%20Stream) | [LeetCode](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | 29 Jul 2026 | 02:24 am |
+| 54 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 29 Jul 2026 | 11:12 pm |
