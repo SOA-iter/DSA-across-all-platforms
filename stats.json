@@ -1,12 +1,12 @@
 {
-  "totalSolved": 54,
-  "currentStreak": 3,
+  "totalSolved": 55,
+  "currentStreak": 4,
   "maxStreak": 10,
-  "lastSyncDate": "2026-07-29",
-  "todayCount": 4,
+  "lastSyncDate": "2026-07-30",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 32,
+    "medium": 33,
     "hard": 7,
     "basic": 2
   },
@@ -64,7 +64,8 @@
     "GeeksForGeeks_Min_Cost_to_Connect_Ropes": true,
     "LeetCode_Kth_Largest_Element_in_a_Stream": true,
     "LeetCode_Find_Median_from_Data_Stream": true,
-    "LeetCode_Top_K_Frequent_Elements": true
+    "LeetCode_Top_K_Frequent_Elements": true,
+    "GeeksForGeeks_First_and_Last_in_Sorted": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -84,12 +85,10 @@
     "2026-07-25": 1,
     "2026-07-27": 1,
     "2026-07-28": 4,
-    "2026-07-29": 4
+    "2026-07-29": 4,
+    "2026-07-30": 1
   },
   "todayProblems": [
-    "Min Cost to Connect Ropes",
-    "Kth Largest Element in a Stream",
-    "Find Median from Data Stream",
-    "Top K Frequent Elements"
+    "First and Last in Sorted"
   ]
 }
