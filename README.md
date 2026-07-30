@@ -55,3 +55,4 @@
 | 53 | [Find Median from Data Stream](./LeetCode/Hard/Find%20Median%20from%20Data%20Stream) | [LeetCode](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | 29 Jul 2026 | 02:24 am |
 | 54 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 29 Jul 2026 | 11:12 pm |
 | 55 | [First and Last in Sorted](./GeeksForGeeks/Medium/First%20and%20Last%20in%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | 30 Jul 2026 | 02:38 am |
+| 56 | [Search in an almost Sorted Array](./GeeksForGeeks/Medium/Search%20in%20an%20almost%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1) | Medium | 31 Jul 2026 | 02:16 am |
