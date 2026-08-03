@@ -58,3 +58,4 @@
 | 56 | [Search in an almost Sorted Array](./GeeksForGeeks/Medium/Search%20in%20an%20almost%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1) | Medium | 31 Jul 2026 | 02:16 am |
 | 57 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 04 Aug 2026 | 12:28 am |
 | 58 | [Implement Lower Bound](./GeeksForGeeks/Easy/Implement%20Lower%20Bound) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | Easy | 04 Aug 2026 | 01:31 am |
+| 59 | [Implement Upper Bound](./GeeksForGeeks/Medium/Implement%20Upper%20Bound) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | Medium | 04 Aug 2026 | 01:51 am |
