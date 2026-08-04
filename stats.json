@@ -1,12 +1,12 @@
 {
-  "totalSolved": 61,
-  "currentStreak": 1,
+  "totalSolved": 62,
+  "currentStreak": 2,
   "maxStreak": 10,
-  "lastSyncDate": "2026-08-04",
-  "todayCount": 5,
+  "lastSyncDate": "2026-08-05",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 36,
+    "medium": 37,
     "hard": 7,
     "basic": 2
   },
@@ -71,7 +71,8 @@
     "GeeksForGeeks_Implement_Lower_Bound": true,
     "GeeksForGeeks_Implement_Upper_Bound": true,
     "LeetCode_Search_Insert_Position": true,
-    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array_II": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -94,13 +95,10 @@
     "2026-07-29": 4,
     "2026-07-30": 1,
     "2026-07-31": 1,
-    "2026-08-04": 5
+    "2026-08-04": 5,
+    "2026-08-05": 1
   },
   "todayProblems": [
-    "Binary Search",
-    "Implement Lower Bound",
-    "Implement Upper Bound",
-    "Search Insert Position",
-    "Find First and Last Position of Element in Sorted Array"
+    "Search in Rotated Sorted Array II"
   ]
 }
