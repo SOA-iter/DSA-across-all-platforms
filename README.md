@@ -65,3 +65,4 @@
 | 63 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 05 Aug 2026 | 07:59 pm |
 | 64 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 05 Aug 2026 | 11:25 pm |
 | 65 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 07 Aug 2026 | 12:32 am |
+| 66 | [Minimum Number of Days to Make m Bouquets](./LeetCode/Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | 07 Aug 2026 | 02:25 am |
