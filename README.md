@@ -64,3 +64,4 @@
 | 62 | [Search in Rotated Sorted Array II](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 05 Aug 2026 | 01:01 am |
 | 63 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 05 Aug 2026 | 07:59 pm |
 | 64 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 05 Aug 2026 | 11:25 pm |
+| 65 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 07 Aug 2026 | 12:32 am |
