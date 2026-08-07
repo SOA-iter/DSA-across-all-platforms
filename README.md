@@ -67,3 +67,4 @@
 | 65 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 07 Aug 2026 | 12:32 am |
 | 66 | [Minimum Number of Days to Make m Bouquets](./LeetCode/Medium/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets) | [LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | 07 Aug 2026 | 02:25 am |
 | 67 | [Find the Smallest Divisor Given a Threshold](./LeetCode/Medium/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold) | [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Medium | 07 Aug 2026 | 11:59 pm |
+| 68 | [Kth Missing Positive Number](./LeetCode/Easy/Kth%20Missing%20Positive%20Number) | [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | 08 Aug 2026 | 01:35 am |

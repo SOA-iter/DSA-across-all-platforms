@@ -1,11 +1,11 @@
 {
-  "totalSolved": 67,
-  "currentStreak": 1,
+  "totalSolved": 68,
+  "currentStreak": 2,
   "maxStreak": 10,
-  "lastSyncDate": "2026-08-07",
-  "todayCount": 3,
+  "lastSyncDate": "2026-08-08",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 17,
+    "easy": 18,
     "medium": 41,
     "hard": 7,
     "basic": 2
@@ -77,7 +77,8 @@
     "LeetCode_Sqrt(x)": true,
     "LeetCode_Koko_Eating_Bananas": true,
     "LeetCode_Minimum_Number_of_Days_to_Make_m_Bouquets": true,
-    "LeetCode_Find_the_Smallest_Divisor_Given_a_Threshold": true
+    "LeetCode_Find_the_Smallest_Divisor_Given_a_Threshold": true,
+    "LeetCode_Kth_Missing_Positive_Number": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -102,11 +103,10 @@
     "2026-07-31": 1,
     "2026-08-04": 5,
     "2026-08-05": 3,
-    "2026-08-07": 3
+    "2026-08-07": 3,
+    "2026-08-08": 1
   },
   "todayProblems": [
-    "Koko Eating Bananas",
-    "Minimum Number of Days to Make m Bouquets",
-    "Find the Smallest Divisor Given a Threshold"
+    "Kth Missing Positive Number"
   ]
 }
