@@ -69,3 +69,4 @@
 | 67 | [Find the Smallest Divisor Given a Threshold](./LeetCode/Medium/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold) | [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Medium | 07 Aug 2026 | 11:59 pm |
 | 68 | [Kth Missing Positive Number](./LeetCode/Easy/Kth%20Missing%20Positive%20Number) | [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | 08 Aug 2026 | 01:35 am |
 | 69 | [K-th element of two Arrays](./GeeksForGeeks/Medium/K-th%20element%20of%20two%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) | Medium | 09 Aug 2026 | 01:35 am |
+| 70 | [Median in a Row-Wise Sorted Matrix](./GeeksForGeeks/Medium/Median%20in%20a%20Row-Wise%20Sorted%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | Medium | 10 Aug 2026 | 12:53 am |
