@@ -75,3 +75,4 @@
 | 73 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 11 Aug 2026 | 12:02 pm |
 | 74 | [Partition Equal Subset Sum](./LeetCode/Medium/Partition%20Equal%20Subset%20Sum) | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | 11 Aug 2026 | 11:32 pm |
 | 75 | [Count Subsets with Sum](./GeeksForGeeks/Medium/Count%20Subsets%20with%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | Medium | 11 Aug 2026 | 11:44 pm |
+| 76 | [Partition Into 2 Subsets with Min Sum Diff](./GeeksForGeeks/Hard/Partition%20Into%202%20Subsets%20with%20Min%20Sum%20Diff) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1) | Hard | 12 Aug 2026 | 12:12 am |

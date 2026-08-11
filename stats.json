@@ -1,13 +1,13 @@
 {
-  "totalSolved": 75,
-  "currentStreak": 5,
+  "totalSolved": 76,
+  "currentStreak": 6,
   "maxStreak": 10,
-  "lastSyncDate": "2026-08-11",
-  "todayCount": 4,
+  "lastSyncDate": "2026-08-12",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 20,
     "medium": 46,
-    "hard": 7,
+    "hard": 8,
     "basic": 2
   },
   "syncedProblems": {
@@ -85,7 +85,8 @@
     "LeetCode_Remove_Outermost_Parentheses": true,
     "LeetCode_Reverse_Words_in_a_String": true,
     "LeetCode_Partition_Equal_Subset_Sum": true,
-    "GeeksForGeeks_Count_Subsets_with_Sum": true
+    "GeeksForGeeks_Count_Subsets_with_Sum": true,
+    "GeeksForGeeks_Partition_Into_2_Subsets_with_Min_Sum_Diff": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -114,12 +115,10 @@
     "2026-08-08": 1,
     "2026-08-09": 1,
     "2026-08-10": 2,
-    "2026-08-11": 4
+    "2026-08-11": 4,
+    "2026-08-12": 1
   },
   "todayProblems": [
-    "Remove Outermost Parentheses",
-    "Reverse Words in a String",
-    "Partition Equal Subset Sum",
-    "Count Subsets with Sum"
+    "Partition Into 2 Subsets with Min Sum Diff"
   ]
 }
