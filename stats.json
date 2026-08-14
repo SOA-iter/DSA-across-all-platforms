@@ -1,12 +1,12 @@
 {
-  "totalSolved": 77,
-  "currentStreak": 7,
+  "totalSolved": 78,
+  "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-08-13",
+  "lastSyncDate": "2026-08-15",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 47,
+    "medium": 48,
     "hard": 8,
     "basic": 2
   },
@@ -87,7 +87,8 @@
     "LeetCode_Partition_Equal_Subset_Sum": true,
     "GeeksForGeeks_Count_Subsets_with_Sum": true,
     "GeeksForGeeks_Partition_Into_2_Subsets_with_Min_Sum_Diff": true,
-    "LeetCode_Target_Sum": true
+    "LeetCode_Target_Sum": true,
+    "GeeksForGeeks_Knapsack_with_Duplicate_Items": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -118,9 +119,10 @@
     "2026-08-10": 2,
     "2026-08-11": 4,
     "2026-08-12": 1,
-    "2026-08-13": 1
+    "2026-08-13": 1,
+    "2026-08-15": 1
   },
   "todayProblems": [
-    "Target Sum"
+    "Knapsack with Duplicate Items"
   ]
 }
