@@ -78,3 +78,4 @@
 | 76 | [Partition Into 2 Subsets with Min Sum Diff](./GeeksForGeeks/Hard/Partition%20Into%202%20Subsets%20with%20Min%20Sum%20Diff) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1) | Hard | 12 Aug 2026 | 12:12 am |
 | 77 | [Target Sum](./LeetCode/Medium/Target%20Sum) | [LeetCode](https://leetcode.com/problems/target-sum/) | Medium | 13 Aug 2026 | 12:31 am |
 | 78 | [Knapsack with Duplicate Items](./GeeksForGeeks/Medium/Knapsack%20with%20Duplicate%20Items) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | Medium | 15 Aug 2026 | 02:24 am |
+| 79 | [Evaluate Reverse Polish Notation](./LeetCode/Medium/Evaluate%20Reverse%20Polish%20Notation) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 18 Aug 2026 | 01:51 am |
