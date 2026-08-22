@@ -80,3 +80,4 @@
 | 78 | [Knapsack with Duplicate Items](./GeeksForGeeks/Medium/Knapsack%20with%20Duplicate%20Items) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | Medium | 15 Aug 2026 | 02:24 am |
 | 79 | [Evaluate Reverse Polish Notation](./LeetCode/Medium/Evaluate%20Reverse%20Polish%20Notation) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 18 Aug 2026 | 01:51 am |
 | 80 | [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | Medium | 21 Aug 2026 | 12:58 am |
+| 81 | [Sort Characters By Frequency](./LeetCode/Medium/Sort%20Characters%20By%20Frequency) | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | 23 Aug 2026 | 12:58 am |
