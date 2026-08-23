@@ -1,12 +1,12 @@
 {
-  "totalSolved": 81,
-  "currentStreak": 1,
+  "totalSolved": 82,
+  "currentStreak": 2,
   "maxStreak": 10,
-  "lastSyncDate": "2026-08-23",
+  "lastSyncDate": "2026-08-24",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 51,
+    "medium": 52,
     "hard": 8,
     "basic": 2
   },
@@ -91,7 +91,8 @@
     "GeeksForGeeks_Knapsack_with_Duplicate_Items": true,
     "LeetCode_Evaluate_Reverse_Polish_Notation": true,
     "LeetCode_Permutation_in_String": true,
-    "LeetCode_Sort_Characters_By_Frequency": true
+    "LeetCode_Sort_Characters_By_Frequency": true,
+    "LeetCode_Sort_Colors": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -126,9 +127,10 @@
     "2026-08-15": 1,
     "2026-08-18": 1,
     "2026-08-21": 1,
-    "2026-08-23": 1
+    "2026-08-23": 1,
+    "2026-08-24": 1
   },
   "todayProblems": [
-    "Sort Characters By Frequency"
+    "Sort Colors"
   ]
 }

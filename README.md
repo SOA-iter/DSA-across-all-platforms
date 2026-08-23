@@ -81,3 +81,4 @@
 | 79 | [Evaluate Reverse Polish Notation](./LeetCode/Medium/Evaluate%20Reverse%20Polish%20Notation) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 18 Aug 2026 | 01:51 am |
 | 80 | [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | Medium | 21 Aug 2026 | 12:58 am |
 | 81 | [Sort Characters By Frequency](./LeetCode/Medium/Sort%20Characters%20By%20Frequency) | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | 23 Aug 2026 | 12:58 am |
+| 82 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 24 Aug 2026 | 02:08 am |
