@@ -84,3 +84,4 @@
 | 82 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 24 Aug 2026 | 02:08 am |
 | 83 | [Coin Change II](./LeetCode/Medium/Coin%20Change%20II) | [LeetCode](https://leetcode.com/problems/coin-change-ii/) | Medium | 28 Aug 2026 | 11:51 am |
 | 84 | [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | 29 Aug 2026 | 12:21 am |
+| 85 | [Longest Common Subsequence](./LeetCode/Medium/Longest%20Common%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) | Medium | 29 Aug 2026 | 02:00 am |
