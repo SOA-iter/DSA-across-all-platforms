@@ -1,12 +1,12 @@
 {
-  "totalSolved": 83,
-  "currentStreak": 1,
+  "totalSolved": 84,
+  "currentStreak": 2,
   "maxStreak": 10,
-  "lastSyncDate": "2026-08-28",
+  "lastSyncDate": "2026-08-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 53,
+    "medium": 54,
     "hard": 8,
     "basic": 2
   },
@@ -93,7 +93,8 @@
     "LeetCode_Permutation_in_String": true,
     "LeetCode_Sort_Characters_By_Frequency": true,
     "LeetCode_Sort_Colors": true,
-    "LeetCode_Coin_Change_II": true
+    "LeetCode_Coin_Change_II": true,
+    "LeetCode_Rearrange_Array_Elements_by_Sign": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -130,9 +131,10 @@
     "2026-08-21": 1,
     "2026-08-23": 1,
     "2026-08-24": 1,
-    "2026-08-28": 1
+    "2026-08-28": 1,
+    "2026-08-29": 1
   },
   "todayProblems": [
-    "Coin Change II"
+    "Rearrange Array Elements by Sign"
   ]
 }
