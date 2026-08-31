@@ -1,11 +1,11 @@
 {
-  "totalSolved": 86,
-  "currentStreak": 3,
+  "totalSolved": 87,
+  "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-08-30",
+  "lastSyncDate": "2026-09-01",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 20,
+    "easy": 21,
     "medium": 56,
     "hard": 8,
     "basic": 2
@@ -96,7 +96,8 @@
     "LeetCode_Coin_Change_II": true,
     "LeetCode_Rearrange_Array_Elements_by_Sign": true,
     "LeetCode_Longest_Common_Subsequence": true,
-    "LeetCode_Longest_Palindromic_Substring": true
+    "LeetCode_Longest_Palindromic_Substring": true,
+    "LeetCode_Find_All_Numbers_Disappeared_in_an_Array": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -135,9 +136,10 @@
     "2026-08-24": 1,
     "2026-08-28": 1,
     "2026-08-29": 2,
-    "2026-08-30": 1
+    "2026-08-30": 1,
+    "2026-09-01": 1
   },
   "todayProblems": [
-    "Longest Palindromic Substring"
+    "Find All Numbers Disappeared in an Array"
   ]
 }
