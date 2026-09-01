@@ -92,3 +92,4 @@
 | 90 | [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 01 Sept 2026 | 11:38 pm |
 | 91 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 02 Sept 2026 | 12:00 am |
 | 92 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 02 Sept 2026 | 12:16 am |
+| 93 | [Meeting Rooms](./GeeksForGeeks/Medium/Meeting%20Rooms) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/attend-all-meetings/1) | Medium | 02 Sept 2026 | 02:05 am |
