@@ -91,3 +91,4 @@
 | 89 | [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) | Easy | 01 Sept 2026 | 01:04 am |
 | 90 | [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 01 Sept 2026 | 11:38 pm |
 | 91 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 02 Sept 2026 | 12:00 am |
+| 92 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 02 Sept 2026 | 12:16 am |

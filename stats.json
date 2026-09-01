@@ -1,11 +1,11 @@
 {
-  "totalSolved": 91,
+  "totalSolved": 92,
   "currentStreak": 2,
   "maxStreak": 10,
   "lastSyncDate": "2026-09-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 25,
+    "easy": 26,
     "medium": 56,
     "hard": 8,
     "basic": 2
@@ -101,7 +101,8 @@
     "LeetCode_Squares_of_a_Sorted_Array": true,
     "LeetCode_Backspace_String_Compare": true,
     "LeetCode_Maximum_Average_Subarray_I": true,
-    "LeetCode_Is_Subsequence": true
+    "LeetCode_Is_Subsequence": true,
+    "LeetCode_Middle_of_the_Linked_List": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -142,9 +143,10 @@
     "2026-08-29": 2,
     "2026-08-30": 1,
     "2026-09-01": 4,
-    "2026-09-02": 1
+    "2026-09-02": 2
   },
   "todayProblems": [
-    "Is Subsequence"
+    "Is Subsequence",
+    "Middle of the Linked List"
   ]
 }
