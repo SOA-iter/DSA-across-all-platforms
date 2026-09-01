@@ -89,3 +89,4 @@
 | 87 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 01 Sept 2026 | 12:09 am |
 | 88 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 01 Sept 2026 | 12:16 am |
 | 89 | [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) | Easy | 01 Sept 2026 | 01:04 am |
+| 90 | [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 01 Sept 2026 | 11:38 pm |
