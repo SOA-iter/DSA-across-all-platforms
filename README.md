@@ -93,3 +93,4 @@
 | 91 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 02 Sept 2026 | 12:00 am |
 | 92 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 02 Sept 2026 | 12:16 am |
 | 93 | [Meeting Rooms](./GeeksForGeeks/Medium/Meeting%20Rooms) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/attend-all-meetings/1) | Medium | 02 Sept 2026 | 02:05 am |
+| 94 | [Frequency of Elements](./GeeksForGeeks/Easy/Frequency%20of%20Elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1) | Easy | 06 Sept 2026 | 01:45 am |
