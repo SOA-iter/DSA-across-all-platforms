@@ -1,12 +1,12 @@
 {
-  "totalSolved": 95,
-  "currentStreak": 1,
+  "totalSolved": 96,
+  "currentStreak": 2,
   "maxStreak": 10,
-  "lastSyncDate": "2026-09-12",
+  "lastSyncDate": "2026-09-13",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 58,
+    "medium": 59,
     "hard": 8,
     "basic": 2
   },
@@ -105,7 +105,8 @@
     "LeetCode_Middle_of_the_Linked_List": true,
     "GeeksForGeeks_Meeting_Rooms": true,
     "GeeksForGeeks_Frequency_of_Elements": true,
-    "LeetCode_Make_String_a_Subsequence_Using_Cyclic_Increments": true
+    "LeetCode_Make_String_a_Subsequence_Using_Cyclic_Increments": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -148,9 +149,10 @@
     "2026-09-01": 4,
     "2026-09-02": 3,
     "2026-09-06": 1,
-    "2026-09-12": 1
+    "2026-09-12": 1,
+    "2026-09-13": 1
   },
   "todayProblems": [
-    "Make String a Subsequence Using Cyclic Increments"
+    "Container With Most Water"
   ]
 }
