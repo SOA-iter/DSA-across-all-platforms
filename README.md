@@ -96,3 +96,4 @@
 | 94 | [Frequency of Elements](./GeeksForGeeks/Easy/Frequency%20of%20Elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1) | Easy | 06 Sept 2026 | 01:45 am |
 | 95 | [Make String a Subsequence Using Cyclic Increments](./LeetCode/Medium/Make%20String%20a%20Subsequence%20Using%20Cyclic%20Increments) | [LeetCode](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | Medium | 12 Sept 2026 | 11:43 am |
 | 96 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 13 Sept 2026 | 12:16 am |
+| 97 | [Invalid Transactions](./LeetCode/Medium/Invalid%20Transactions) | [LeetCode](https://leetcode.com/problems/invalid-transactions/) | Medium | 14 Sept 2026 | 09:10 pm |
