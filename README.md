@@ -98,3 +98,4 @@
 | 96 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 13 Sept 2026 | 12:16 am |
 | 97 | [Invalid Transactions](./LeetCode/Medium/Invalid%20Transactions) | [LeetCode](https://leetcode.com/problems/invalid-transactions/) | Medium | 14 Sept 2026 | 09:10 pm |
 | 98 | [Remove Duplicates from Sorted Array II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | 15 Sept 2026 | 12:03 am |
+| 99 | [Combine Two Tables](./LeetCode/Easy/Combine%20Two%20Tables) | [LeetCode](https://leetcode.com/problems/combine-two-tables/) | Easy | 18 Sept 2026 | 12:57 am |

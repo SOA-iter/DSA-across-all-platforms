@@ -1,11 +1,11 @@
 {
-  "totalSolved": 98,
-  "currentStreak": 4,
+  "totalSolved": 99,
+  "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-09-15",
+  "lastSyncDate": "2026-09-18",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 27,
+    "easy": 28,
     "medium": 61,
     "hard": 8,
     "basic": 2
@@ -108,7 +108,8 @@
     "LeetCode_Make_String_a_Subsequence_Using_Cyclic_Increments": true,
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Invalid_Transactions": true,
-    "LeetCode_Remove_Duplicates_from_Sorted_Array_II": true
+    "LeetCode_Remove_Duplicates_from_Sorted_Array_II": true,
+    "LeetCode_Combine_Two_Tables": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -154,9 +155,10 @@
     "2026-09-12": 1,
     "2026-09-13": 1,
     "2026-09-14": 1,
-    "2026-09-15": 1
+    "2026-09-15": 1,
+    "2026-09-18": 1
   },
   "todayProblems": [
-    "Remove Duplicates from Sorted Array II"
+    "Combine Two Tables"
   ]
 }
