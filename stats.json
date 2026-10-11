@@ -1,11 +1,11 @@
 {
-  "totalSolved": 99,
+  "totalSolved": 100,
   "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-09-18",
+  "lastSyncDate": "2026-10-12",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 28,
+    "easy": 29,
     "medium": 61,
     "hard": 8,
     "basic": 2
@@ -109,7 +109,8 @@
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Invalid_Transactions": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array_II": true,
-    "LeetCode_Combine_Two_Tables": true
+    "LeetCode_Combine_Two_Tables": true,
+    "LeetCode_Find_the_Pivot_Integer": true
   },
   "activityHistory": {
     "2026-07-10": 1,
@@ -156,9 +157,10 @@
     "2026-09-13": 1,
     "2026-09-14": 1,
     "2026-09-15": 1,
-    "2026-09-18": 1
+    "2026-09-18": 1,
+    "2026-10-12": 1
   },
   "todayProblems": [
-    "Combine Two Tables"
+    "Find the Pivot Integer"
   ]
 }
