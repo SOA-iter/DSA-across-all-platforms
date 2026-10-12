@@ -100,3 +100,4 @@
 | 98 | [Remove Duplicates from Sorted Array II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | 15 Sept 2026 | 12:03 am |
 | 99 | [Combine Two Tables](./LeetCode/Easy/Combine%20Two%20Tables) | [LeetCode](https://leetcode.com/problems/combine-two-tables/) | Easy | 18 Sept 2026 | 12:57 am |
 | 100 | [Find the Pivot Integer](./LeetCode/Easy/Find%20the%20Pivot%20Integer) | [LeetCode](https://leetcode.com/problems/find-the-pivot-integer/) | Easy | 12 Oct 2026 | 01:02 am |
+| 101 | [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) | [LeetCode](https://leetcode.com/problems/contiguous-array/) | Medium | 13 Oct 2026 | 12:58 am |
